@@ -1,3 +1,3 @@
 class AppKeys {
-  static const String mapsApiKey = "AIzaSyAq9iH8RQikFcpm96ooCnrrQtdfHdbAXu0";
+  static const String mapsApiKey = "USE_YOUR_OWN_KEY";
 }
